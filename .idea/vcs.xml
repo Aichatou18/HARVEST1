@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/announcement_microservice" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/harvest_backend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/harvest_frontend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/inventory_microservice" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/inventory_microservice/inventory_microservice" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/production-and-inventory" vcs="Git" />
+  </component>
+</project>
